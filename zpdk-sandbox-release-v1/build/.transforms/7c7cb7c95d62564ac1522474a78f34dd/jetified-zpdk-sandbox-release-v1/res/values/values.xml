@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="err_common_not_installed"> ZaloPay application chưa được cài đặt!</string>
+    <string name="err_link_merchant_requestid"> RequestId không được để rỗng</string>
+</resources>

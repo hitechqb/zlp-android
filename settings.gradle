@@ -1,0 +1,2 @@
+rootProject.name='motocare'
+include ':app', ':zpdk-sandbox-release-v1'
